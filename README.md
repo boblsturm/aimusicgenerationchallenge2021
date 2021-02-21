@@ -3,18 +3,15 @@
 ### in the style of slängpolska
  
 ## What?
-
 Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur in late 2021 in Stockholm, Sweden. The panel of judges consists of four (human) experts in Scandinavian traditional music and performance.
  
 ## Why?
-
 This challenge has three aims:
 1. to promote meaningful approaches to evaluating music Ai;
 2. to see how music Ai research can benefit from considering traditional music, and how traditional music can benefit from music Ai research;
 3. to facilitate discussions about the ethics of music Ai research applied to traditional music practices.
  
-_How?_
-
+## How?
 1. BEFORE JULY 17, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se).
 2. Build a system that generates slängpolskor. Each slängpolska must be rendered as notation and MIDI.
 3. Have your system generate 1000 slängpolskor.
