@@ -1,22 +1,25 @@
-# The Ai music generation challenge 2021
+# The Ai Music Generation Challenge 2021
 
-## in the style of slängpolska
+**in the style of slängpolska**
  
 _What?_
+
 Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur in late 2021 in Stockholm, Sweden. The panel of judges consists of four (human) experts in Scandinavian traditional music and performance.
  
 _Why?_
+
 This challenge has three aims:
 1. to promote meaningful approaches to evaluating music Ai;
 2. to see how music Ai research can benefit from considering traditional music, and how traditional music can benefit from music Ai research;
 3. to facilitate discussions about the ethics of music Ai research applied to traditional music practices.
  
 _How?_
-1. BEFORE JULY 17, register your intent to participate by notifying the organizer: bobs@kth.se.
-2. Build a system that generates slängpolskor in two formats: notation and MIDI.
-3. Have your system generate at least 1000 tunes.
+
+1. BEFORE JULY 17, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se).
+2. Build a system that generates slängpolskor. Each slängpolska must be rendered as notation and MIDI.
+3. Have your system generate 1000 slängpolskor.
 4. Write a brief technical document describing how you built your system, presenting some of its features and outcomes, and linking to your code and models for reproducibility.
-5. BEFORE SEPTEMBER 25, email bobs@kth.se a link to download your generated collection and your technical document.
+5. BEFORE SEPTEMBER 25, email the [organizer](mailto:bobs@kth.se) a link to download your generated collection and your technical document.
 6. Only one submission from each participant will be allowed.
 
 ## Evaluation
