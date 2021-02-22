@@ -12,7 +12,7 @@ This challenge has three aims:
 3. to facilitate discussions about the ethics of music Ai research applied to traditional music practices.
  
 ## How?
-1. BEFORE JULY 17, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se?subject="Participation in the Ai Music Generation Challenge 2021").
+1. BEFORE JULY 17, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se?subject=Participation in the Ai Music Generation Challenge 2021).
 2. Build a system that generates slängpolskor.
 3. Have your system generate 1000 slängpolskor rendered as MIDI and in notation (such as ABC, musicXML, or staff).
 4. Write a brief technical document describing how you built your system, presenting some of its features and outcomes, and linking to your code and models for reproducibility.
