@@ -1,6 +1,6 @@
 # The Ai Music Generation Challenge 2021
 
-### In the style of slängpolska
+### In the style of slängpolska (pronounced _slang polska_)
  
 ## What?
 Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur in late 2021 in Stockholm, Sweden. The panel of judges consists of four (human) experts in Scandinavian traditional music and performance. (See a summary of the 2020 Challenge [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/).)
