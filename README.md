@@ -21,19 +21,19 @@ This challenge has three aims:
 
 ## Evaluation
 The evaluation of submissions will proceed in the following way:
-1. Five tunes are selected at random from each submitted collection.
-2. The selected tunes are sent to all judges for review.
-3. _Stage 1_ Each judge will review the acceptability of each tune according to the following:
+1. Four tunes are selected at random from each submitted collection, and one tune is selected by the participants of each submitted collection.
+3. All selected tunes are sent to all judges for review.
+4. _Stage 1_ Each judge will review the acceptability of each tune according to the following:
 - If plagiarism detected, reject and do not review.
 - If meter is not characteristic of a slängpolska, reject and do not review.
 - If rhythm is not characteristic of a slängpolska, reject and do not review.
-4. _Stage 2_ Each judge will rate on a scale of 1–5 the acceptable tunes along the following qualities:
+5. _Stage 2_ Each judge will rate on a scale of 1–5 the acceptable tunes along the following qualities:
 - Danceability
 - Stylistic coherence
 - Formal coherence
 - Playability
-5. _Stage 3_ Each judge will present to the other judges the best tunes from their collections, and together will decide which are the best slängpolskor (or to award no prize).
-6. _Stage 4_ Selected slängpolskor will be performed for a set of dancers, who will vote for their favorites (or to award no prize).
+6. _Stage 3_ Each judge will present to the other judges the best tunes from their collections, and together will decide which are the best slängpolskor (or to award no prize).
+7. _Stage 4_ Selected slängpolskor will be performed for a set of dancers, who will vote for their favorites (or to award no prize).
 
 ## Frequently Asked Questions
 1. "Where can I get data?" See [folkwiki](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska) for relevant tunes rendered as ABC and MIDI.
