@@ -21,7 +21,7 @@ This challenge has three aims:
 
 ## Evaluation
 The evaluation of submissions will proceed in the following way:
-1. Four tunes are selected at random from each submitted collection, and one tune is selected by the participants of each submitted collection.
+1. Four tunes are selected at random from each submitted collection, and one tune is selected by the participants of each submitted collection. (Select the one you believe is best.)
 3. All selected tunes are sent to all judges for review.
 4. _Stage 1_ Each judge will review the acceptability of each tune according to the following:
 - If plagiarism detected, reject and do not review.
