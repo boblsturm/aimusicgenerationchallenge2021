@@ -11,7 +11,7 @@ This challenge has three aims:
 2. to see how music Ai research can benefit from considering traditional music, and how traditional music can benefit from music Ai research;
 3. to facilitate discussions about the ethics of music Ai research applied to traditional music practices.
 
-Financial support comes from ERC-2019-COG No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://www.kth.se/is/tmh/speech-communication/musaic-music-at-the-frontiers-of-artificial-creativity-and-criticism-1.950539).
+This challenge is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://www.kth.se/is/tmh/speech-communication/musaic-music-at-the-frontiers-of-artificial-creativity-and-criticism-1.950539)).
  
 ## How?
 1. BEFORE JULY 17, register your intent to participate by notifying the [organizer](mailto:bobs@kth.se?subject=Participation-in-the-Ai-Music-Generation-Challenge-2021).
