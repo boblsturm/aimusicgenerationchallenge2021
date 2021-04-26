@@ -3,14 +3,16 @@
 ### In the style of slängpolska (pronounced _slang polska_)
  
 ## What?
-Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur in late 2021 in Stockholm, Sweden. The panel of judges consists of four (human) experts in Scandinavian traditional music and performance. (See a summary of the 2020 Challenge [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/).)
+Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur in late 2021 in Stockholm, Sweden. The panel of judges consists of four (human) experts in Scandinavian traditional music and performance.
+
+Here's [a video](https://play.kth.se/media/AIMGC2021/0_kgu3qwog) of two of this year's judges talking about slängpolska.
 
 This challenge is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://www.kth.se/is/tmh/speech-communication/musaic-music-at-the-frontiers-of-artificial-creativity-and-criticism-1.950539)).
  
 ## Why?
 This challenge has three aims:
 1. to promote meaningful approaches to evaluating music Ai;
-2. to see how music Ai research can benefit from considering traditional music, and how traditional music can benefit from music Ai research;
+2. to see how music Ai research can benefit from traditional music, and how traditional music can benefit from music Ai research;
 3. to facilitate discussions about the ethics of music Ai research applied to traditional music practices.
 
 ## How?
@@ -23,9 +25,9 @@ This challenge has three aims:
 
 ## Evaluation
 The evaluation of submissions will proceed in the following way:
-1. Four tunes are selected at random from each submitted collection, and one tune is selected by the participants of each submitted collection. (Select the one you believe is best.)
+1. From each submitted collection, one tune is selected by the participant of the collection, and four others are selected at random.
 3. All selected tunes are sent to all judges for review.
-4. _Stage 1_ Each judge will review the acceptability of each tune according to the following:
+4. _Stage 1_ Each judge reviews the acceptability of each tune according to the following:
 - If plagiarism detected, reject and do not review.
 - If meter is not characteristic of a slängpolska, reject and do not review.
 - If rhythm is not characteristic of a slängpolska, reject and do not review.
@@ -39,3 +41,4 @@ The evaluation of submissions will proceed in the following way:
 
 ## Frequently Asked Questions
 1. "Where can I get data?" See [folkwiki](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska) for relevant tunes rendered as ABC and MIDI.
+2. "What happened at The Ai Music Generation Challenge 2020?" A summary of the 2020 Challenge is [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/). A video of the winning jigs is [here](https://youtu.be/KSoSyoEx6hc).
