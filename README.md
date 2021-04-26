@@ -3,9 +3,9 @@
 ### In the style of slängpolska (pronounced _slang polska_)
  
 ## What?
-Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur in late 2021 in Stockholm, Sweden. The panel of judges consists of four (human) experts in Scandinavian traditional music and performance.
+Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur at the 1st MUSAiC Symposium, Nov. 4-5, 2021 (KTH+KMH, Stockholm, Sweden). 
 
-Here's [a video](https://play.kth.se/media/AIMGC2021/0_kgu3qwog) of two of this year's judges talking about slängpolska.
+The panel of judges consists of four (human) experts in Scandinavian traditional music and performance. Here's [a video](https://play.kth.se/media/AIMGC2021/0_kgu3qwog) of two of this year's judges talking about slängpolska.
 
 This challenge is part of a project that has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. 864189 [MUSAiC: Music at the Frontiers of Artificial Creativity and Criticism](https://www.kth.se/is/tmh/speech-communication/musaic-music-at-the-frontiers-of-artificial-creativity-and-criticism-1.950539)).
  
