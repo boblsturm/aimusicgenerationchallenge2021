@@ -3,7 +3,7 @@
 ### In the style of slängpolska (pronounced _slang polska_)
  
 ## What?
-Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur at the 1st MUSAiC Symposium, Nov. 4-5, 2021 (KTH+KMH, Stockholm, Sweden). 
+Build an artificial system that generates the most plausible slängpolska – a traditional dance form from Scandinavia. Many examples of slängpolska can be found [here](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska). Up to two prizes will be awarded, and a performance of the best ones will occur at some point 2022 in Stockholm, Sweden. 
 
 The panel of judges consists of four (human) experts in Scandinavian traditional music and performance. Here's [a video](https://play.kth.se/media/AIMGC2021/0_kgu3qwog) of two of this year's judges talking about slängpolska.
 
@@ -20,7 +20,7 @@ This challenge has three aims:
 2. Build a system that generates slängpolskor.
 3. Have your system generate 1000 slängpolskor rendered as MIDI and in notation (such as ABC, musicXML, or staff).
 4. Write a brief technical document describing how you built your system, presenting some of its features and outcomes, and linking to your code and models for reproducibility.
-5. BEFORE SEPTEMBER 25, email the [organizer](mailto:bobs@kth.se) a link to download your generated collection and your technical document.
+5. BEFORE NOVEMBER 26, email the [organizer](mailto:bobs@kth.se) a link to download your generated collection and your technical document.
 6. Only one submission from each participant will be allowed.
 
 ## Evaluation
