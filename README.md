@@ -20,8 +20,11 @@ This challenge has three aims:
 2. Build a system that generates slängpolskor.
 3. Have your system generate 1000 slängpolskor rendered as MIDI and in notation (such as ABC, musicXML, or staff).
 4. Write a brief technical document describing how you built your system, presenting some of its features and outcomes, and linking to your code and models for reproducibility.
-5. BEFORE NOVEMBER 26, email the [organizer](mailto:bobs@kth.se) a link to download your generated collection and your technical document.
-6. Only one submission from each participant will be allowed.
+5. BEFORE NOVEMBER 26, email the [organizer](mailto:bobs@kth.se):
+- a link to download your generated collection of 1000 slängpolskor rendered as MIDI **and** in notation (such as ABC, musicXML, or staff).
+- a link to download your technical document (pdf)
+- one slängpolska in your collection that you want included in the evaluation (choose what you think is the best).
+7. Only one submission from each participant will be allowed.
 
 ## Evaluation
 The evaluation of submissions will proceed in the following way:
