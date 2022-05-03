@@ -53,18 +53,16 @@ The evaluation of submissions will proceed in the following way:
 - red color: tune selected by participant
 - green color: tune mentioned by judge as a favorite
 
-Randomly selected tunes awarded FIRST:
+Tunes awarded FIRST:
 - 267	(V)
 - 576	(V)
-	
-Participant selected tunes awarded FIRST:
-- 23	(S)
+- 23	(S, participant selected)
 
 Tunes awarded SECOND:
 - 553	(V)
 - 751	(V)
 	
-HONORABLE	MENTIONS
+HONORABLE MENTIONS
 - 12	(B, participant selected)
 - 117	(V)
 - 263	(V)
@@ -76,3 +74,6 @@ HONORABLE	MENTIONS
 Tunes deserving other comments
 - 403 (O) "Disturbing but fun"
 
+# Results of stage 4
+
+Details coming soon.
