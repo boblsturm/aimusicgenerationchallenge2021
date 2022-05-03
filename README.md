@@ -58,6 +58,12 @@ FIRST PRIZES:
 - 576	(V)
 - 23	(S, participant selected)
 
+<img width="831" alt="Screen Shot 2022-05-03 at 2 54 04 PM" src="https://user-images.githubusercontent.com/10271332/166456454-66eacbdf-ef62-40f7-a7d0-a6f6e160431d.png">
+
+<img width="831" alt="Screen Shot 2022-05-03 at 2 54 42 PM" src="https://user-images.githubusercontent.com/10271332/166456553-c5b0b35f-bdf8-4d10-9a93-dcbb94e802c9.png">
+
+<img width="829" alt="Screen Shot 2022-05-03 at 2 55 08 PM" src="https://user-images.githubusercontent.com/10271332/166456619-f1faf7da-b1a5-45a2-b342-ea4f5048093b.png">
+
 SECOND PRIZES:
 - 553	(V)
 - 751	(V)
