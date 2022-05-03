@@ -45,3 +45,11 @@ The evaluation of submissions will proceed in the following way:
 ## Frequently Asked Questions
 1. "Where can I get data?" See [folkwiki](http://www.folkwiki.se/L%c3%a5ttyper/Sl%c3%a4ngpolska) for relevant tunes rendered as ABC and MIDI.
 2. "What happened at The Ai Music Generation Challenge 2020?" A summary of the 2020 Challenge is [here](https://highnoongmt.wordpress.com/2020/11/20/the-ai-music-generation-challenge-2020-summary-and-results/). A video of the winning jigs is [here](https://youtu.be/KSoSyoEx6hc).
+
+# Stage 2 results
+
+![image](https://user-images.githubusercontent.com/10271332/166451030-38bce88f-0fef-4cb6-b021-863ca4777cdf.png)
+
+
+# Stage 3 results
+
