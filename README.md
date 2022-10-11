@@ -105,10 +105,10 @@ Other comments:
 
 The "selection by dancers" occured at [Skeppis](https://www.folkmusikhuset.se/index.html), and involved two of the judges performing 5 tunes several times for several dancers. Participants were given two beans each to place in five bottles, numbered according to the tunes. 17 dancers cast their votes, and here's the results:
 
-Tune    | Beans
----------------
-576 (V) | 9
-23 (S)  | 8
-267 (V) | 6
-553 (V) | 6
-751 (V) | 5
+| Tune    | Beans| 
+| ---------------| 
+| 576 (V) | 9    |
+| 23 (S)  | 8    |
+| 267 (V) | 6    |
+| 553 (V) | 6    |
+| 751 (V) | 5    |
