@@ -103,7 +103,7 @@ Other comments:
 
 # Results of stage 4
 
-The "selection by dancers" occured at [Skeppis](https://www.folkmusikhuset.se/index.html), and involved two of the judges performing 5 tunes several times for several dancers. Participants were given two beans each to place in five bottles, numbered according to the tunes. 17 dancers cast their votes, and here's the results:
+The "selection by dancers" occured at [Skeppis](https://www.folkmusikhuset.se/index.html) October 9 2022, and involved two of the judges performing 5 tunes several times for several dancers. Participants were given two beans each to place in five bottles, numbered according to the tunes. 17 dancers cast their votes, and here's the results:
 
 | Tune    | Beans| 
 |---------|------| 
